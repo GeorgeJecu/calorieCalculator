@@ -1,0 +1,38 @@
+.card-body {
+  min-width: max-content;
+}
+.card {
+  min-width: fit-content;
+}
+.macronutrients > form {
+  max-width: max-content;
+}
+
+form > .mb-3 {
+  min-width: max-content;
+}
+
+select {
+  max-width: 100%;
+}
+
+.progress {
+  min-width: 18rem;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.active {
+  background-color: #0b5ed7;
+}
+
+.categories {
+  width: max-content;
+}
+
+.error {
+  border-color: #e21212 !important;
+  color: #e21212 !important;
+}
